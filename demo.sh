@@ -1,2 +1,2 @@
-echo "hello world from user"
+echo "from user"
 
